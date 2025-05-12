@@ -113,14 +113,14 @@ search.addEventListener("submit", (e) => {
       container.innerHTML = `
       <div class="col-xs-12 col-lg-6 order-2 order-lg-1 p-5">
           <h1 class="mt-5">
-            <span id="heading">SWeather</span> - Get the Most Accurate Weather
+            <span id="heading">EWeather</span> - Get the Most Accurate Weather
             <span id="heading">Now!</span>
           </h1>
           <button id="getInfo" class="btn btn-outline-danger mt-5">
             Get current weather
           </button>
           <div class="container text-muted my-5 pl-0">
-            &#169 Developed by Sayandeep Adhikary
+            &#169 Developed by Kajal Mudi
           </div>
         </div>
       <div class="col-xs-12 col-lg-6 order-1 d-flex" id="content">
